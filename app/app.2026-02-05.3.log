@@ -1,0 +1,7 @@
+2026-02-05 19:16:51 [main] INFO  org.ecommerce.base.BaseTest - All the Driver Actions is successfully initalized 
+2026-02-05 19:16:52 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is user-name
+2026-02-05 19:16:53 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is password
+2026-02-05 19:16:53 [main] INFO  org.ecommerce.pom.LoginPage - UserName  is entered user-name
+2026-02-05 19:16:53 [main] INFO  org.ecommerce.pom.LoginPage - Password is enteredpassword
+2026-02-05 19:16:53 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is login-button
+2026-02-05 19:16:54 [main] INFO  org.ecommerce.base.BaseTest - Driver is sucessfully closed

@@ -1,0 +1,78 @@
+2026-02-07 12:29:15 [main] INFO  org.ecommerce.base.BaseTest - All the Driver Actions is successfully initalized 
+2026-02-07 12:29:16 [main] INFO  org.ecommerce.base.BaseTest - All the Driver Actions is successfully initalized 
+2026-02-07 12:29:16 [main] INFO  org.ecommerce.pom.LoginPage - user-name
+2026-02-07 12:29:16 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is user-name
+2026-02-07 12:29:17 [main] INFO  org.ecommerce.pom.LoginPage - UserName  is entered 
+2026-02-07 12:29:17 [main] INFO  org.ecommerce.pom.LoginPage - password
+2026-02-07 12:29:17 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is password
+2026-02-07 12:29:17 [main] INFO  org.ecommerce.pom.LoginPage - Password is entered
+2026-02-07 12:29:17 [main] INFO  org.ecommerce.pom.LoginPage - login-button
+2026-02-07 12:29:17 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is login-button
+2026-02-07 12:29:17 [main] INFO  org.ecommerce.pom.LoginPage - Loginbutton is clicked and  login successful 
+2026-02-07 12:29:17 [main] INFO  org.ecommerce.pom.LoginPage - TestCase is completed for :LoginPage
+2026-02-07 12:29:20 [main] INFO  org.ecommerce.base.BaseTest - Driver is sucessfully closed
+2026-02-07 12:29:28 [main] INFO  org.ecommerce.base.BaseTest - All the Driver Actions is successfully initalized 
+2026-02-07 12:29:29 [main] INFO  org.ecommerce.base.BaseTest - All the Driver Actions is successfully initalized 
+2026-02-07 12:29:29 [main] INFO  org.ecommerce.pom.LoginPage - user-name
+2026-02-07 12:29:29 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is user-name
+2026-02-07 12:29:29 [main] INFO  org.ecommerce.pom.LoginPage - UserName  is entered 
+2026-02-07 12:29:30 [main] INFO  org.ecommerce.pom.LoginPage - password
+2026-02-07 12:29:30 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is password
+2026-02-07 12:29:30 [main] INFO  org.ecommerce.pom.LoginPage - Password is entered
+2026-02-07 12:29:30 [main] INFO  org.ecommerce.pom.LoginPage - login-button
+2026-02-07 12:29:30 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is login-button
+2026-02-07 12:29:30 [main] INFO  org.ecommerce.pom.LoginPage - Loginbutton is clicked and  login successful 
+2026-02-07 12:29:30 [main] INFO  org.ecommerce.pom.LoginPage - TestCase is completed for :LoginPage
+2026-02-07 12:29:32 [main] INFO  org.ecommerce.base.BaseTest - Driver is sucessfully closed
+2026-02-07 12:29:40 [main] INFO  org.ecommerce.base.BaseTest - All the Driver Actions is successfully initalized 
+2026-02-07 12:29:41 [main] INFO  org.ecommerce.base.BaseTest - All the Driver Actions is successfully initalized 
+2026-02-07 12:29:41 [main] INFO  org.ecommerce.pom.LoginPage - user-name
+2026-02-07 12:29:41 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is user-name
+2026-02-07 12:29:41 [main] INFO  org.ecommerce.pom.LoginPage - UserName  is entered 
+2026-02-07 12:29:41 [main] INFO  org.ecommerce.pom.LoginPage - password
+2026-02-07 12:29:41 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is password
+2026-02-07 12:29:41 [main] INFO  org.ecommerce.pom.LoginPage - Password is entered
+2026-02-07 12:29:41 [main] INFO  org.ecommerce.pom.LoginPage - login-button
+2026-02-07 12:29:41 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is login-button
+2026-02-07 12:29:41 [main] INFO  org.ecommerce.pom.LoginPage - Loginbutton is clicked and  login successful 
+2026-02-07 12:29:41 [main] INFO  org.ecommerce.pom.LoginPage - TestCase is completed for :LoginPage
+2026-02-07 12:29:43 [main] INFO  org.ecommerce.base.BaseTest - Driver is sucessfully closed
+2026-02-07 12:29:52 [main] INFO  org.ecommerce.base.BaseTest - All the Driver Actions is successfully initalized 
+2026-02-07 12:29:52 [main] INFO  org.ecommerce.base.BaseTest - All the Driver Actions is successfully initalized 
+2026-02-07 12:29:52 [main] INFO  org.ecommerce.pom.LoginPage - user-name
+2026-02-07 12:29:52 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is user-name
+2026-02-07 12:29:52 [main] INFO  org.ecommerce.pom.LoginPage - UserName  is entered 
+2026-02-07 12:29:53 [main] INFO  org.ecommerce.pom.LoginPage - password
+2026-02-07 12:29:53 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is password
+2026-02-07 12:29:53 [main] INFO  org.ecommerce.pom.LoginPage - Password is entered
+2026-02-07 12:29:53 [main] INFO  org.ecommerce.pom.LoginPage - login-button
+2026-02-07 12:29:53 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is login-button
+2026-02-07 12:29:53 [main] INFO  org.ecommerce.pom.LoginPage - Loginbutton is clicked and  login successful 
+2026-02-07 12:29:53 [main] INFO  org.ecommerce.pom.LoginPage - TestCase is completed for :LoginPage
+2026-02-07 12:29:56 [main] INFO  org.ecommerce.base.BaseTest - Driver is sucessfully closed
+2026-02-07 12:30:06 [main] INFO  org.ecommerce.base.BaseTest - All the Driver Actions is successfully initalized 
+2026-02-07 12:30:06 [main] INFO  org.ecommerce.base.BaseTest - All the Driver Actions is successfully initalized 
+2026-02-07 12:30:06 [main] INFO  org.ecommerce.pom.LoginPage - user-name
+2026-02-07 12:30:06 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is user-name
+2026-02-07 12:30:07 [main] INFO  org.ecommerce.pom.LoginPage - UserName  is entered 
+2026-02-07 12:30:07 [main] INFO  org.ecommerce.pom.LoginPage - password
+2026-02-07 12:30:07 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is password
+2026-02-07 12:30:07 [main] INFO  org.ecommerce.pom.LoginPage - Password is entered
+2026-02-07 12:30:07 [main] INFO  org.ecommerce.pom.LoginPage - login-button
+2026-02-07 12:30:07 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is login-button
+2026-02-07 12:30:07 [main] INFO  org.ecommerce.pom.LoginPage - Loginbutton is clicked and  login successful 
+2026-02-07 12:30:07 [main] INFO  org.ecommerce.pom.LoginPage - TestCase is completed for :LoginPage
+2026-02-07 12:30:09 [main] INFO  org.ecommerce.base.BaseTest - Driver is sucessfully closed
+2026-02-07 12:30:17 [main] INFO  org.ecommerce.base.BaseTest - All the Driver Actions is successfully initalized 
+2026-02-07 12:30:17 [main] INFO  org.ecommerce.base.BaseTest - All the Driver Actions is successfully initalized 
+2026-02-07 12:30:17 [main] INFO  org.ecommerce.pom.LoginPage - user-name
+2026-02-07 12:30:17 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is user-name
+2026-02-07 12:30:18 [main] INFO  org.ecommerce.pom.LoginPage - UserName  is entered 
+2026-02-07 12:30:18 [main] INFO  org.ecommerce.pom.LoginPage - password
+2026-02-07 12:30:18 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is password
+2026-02-07 12:30:18 [main] INFO  org.ecommerce.pom.LoginPage - Password is entered
+2026-02-07 12:30:18 [main] INFO  org.ecommerce.pom.LoginPage - login-button
+2026-02-07 12:30:18 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is login-button
+2026-02-07 12:30:18 [main] INFO  org.ecommerce.pom.LoginPage - Loginbutton is clicked and  login successful 
+2026-02-07 12:30:18 [main] INFO  org.ecommerce.pom.LoginPage - TestCase is completed for :LoginPage
+2026-02-07 12:30:20 [main] INFO  org.ecommerce.base.BaseTest - Driver is sucessfully closed

@@ -1,0 +1,20 @@
+2026-02-09 18:41:17 [main] ERROR org.ecommerce.factorydriver.FactoryDriver - Failed to intitalize BrowserDriver: Could not start a new session. Response code 500. Message: Failed to decode response from marionette 
+Host info: host: 'VPR', ip: '10.36.3.137'
+Build info: version: '4.34.0', revision: '707dcb4246*'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.28'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, newSession {capabilities=[Capabilities {acceptInsecureCerts: true, browserName: firefox, moz:firefoxOptions: {binary: C:\Program Files\Mozilla Fi..., prefs: {remote.active-protocols: 1}}}]}]
+2026-02-09 18:41:40 [main] INFO  org.ecommerce.base.BaseTest - All the Driver Actions is successfully initalized 
+2026-02-09 18:41:41 [main] INFO  org.ecommerce.base.BaseTest - Driver is sucessfully closed
+2026-02-09 18:41:52 [main] INFO  org.ecommerce.base.BaseTest - All the Driver Actions is successfully initalized 
+2026-02-09 18:41:52 [main] INFO  org.ecommerce.pom.LoginPage - user-name
+2026-02-09 18:41:52 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is user-name
+2026-02-09 18:41:52 [main] INFO  org.ecommerce.pom.LoginPage - UserName  is entered 
+2026-02-09 18:41:52 [main] INFO  org.ecommerce.pom.LoginPage - password
+2026-02-09 18:41:53 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is password
+2026-02-09 18:41:53 [main] INFO  org.ecommerce.pom.LoginPage - Password is entered
+2026-02-09 18:41:53 [main] INFO  org.ecommerce.pom.LoginPage - login-button
+2026-02-09 18:41:53 [main] INFO  org.ecommerce.utilities.ActionsDriver - Attribute value of the element is login-button
+2026-02-09 18:41:53 [main] INFO  org.ecommerce.pom.LoginPage - Loginbutton is clicked and  login successful 
+2026-02-09 18:41:53 [main] INFO  org.ecommerce.pom.LoginPage - TestCase is completed for :LoginPage
+2026-02-09 18:41:55 [main] INFO  org.ecommerce.base.BaseTest - Driver is sucessfully closed
