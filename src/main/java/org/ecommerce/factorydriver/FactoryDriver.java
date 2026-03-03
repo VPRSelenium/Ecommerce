@@ -78,11 +78,19 @@ public class FactoryDriver {
 	}
 
 	public static WebDriverWait webDriverWait(int time) {
-
+  
 		return new WebDriverWait(DriverManager.getDriver(), Duration.ofSeconds(time));
 
 	}
 
+	//fluent wait 
+	public static void fluentWait()
+	{
+		
+	}
+	
+	
+	
 	public static Robot robotDriver() throws AWTException {
 
 		try {

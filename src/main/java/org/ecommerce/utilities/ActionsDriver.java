@@ -20,9 +20,10 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebElement;
-
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.collections.Lists;
@@ -86,6 +87,19 @@ public class ActionsDriver  {
 		Select select = new Select(element);
 		select.selectByIndex(in);
 	}
+	
+	//implicit wait
+	
+	public static void implic(int seconds)
+	{
+		try {
+			DriverManager.getDriver().manage().timeouts().implicitlyWait(Duration.ofSeconds(seconds));
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			log.error("Element is not intreacated " + e.getMessage());
+		}
+	}
+	
 
 // explicit wait
 	public static void elementClickable(WebElement element) {
@@ -96,8 +110,25 @@ public class ActionsDriver  {
 			// TODO Auto-generated catch block
 			log.error("Element is not intreacated " + e.getMessage());
 		}
-
 	}
+
+   public static void elementSelected(WebElement elementS)
+   {
+	   try
+	   {
+	   FactoryDriver.webDriverWait(3).until(ExpectedConditions.elementToBeSelected(elementS));
+	   
+	   }catch (Exception e)
+	   
+	   {
+		   log.error("Element is not intreacated " + e.getMessage());
+	   }
+   }
+		
+   
+  //fluent wait
+   
+   
 
 //alert
 	public static void simpleAlertAccept() {
@@ -313,6 +344,21 @@ public class ActionsDriver  {
 		File target = new File(path);
 		FileUtils.copyFile(source, target);
 		return path;
+	
+	
 	}
 
+	
+
+//
+
+
+	
 }
+
+
+
+//implcit
+
+}
+

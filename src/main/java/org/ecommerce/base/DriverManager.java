@@ -4,11 +4,10 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 
-import com.sun.tools.sjavac.Log;
 
 public class DriverManager  {
 	
-	protected  static  Logger log = LogManager.getLogger(DriverManager.class);
+	private  static  Logger log = LogManager.getLogger(DriverManager.class);
 	private static final ThreadLocal <WebDriver> driver = new ThreadLocal<>();
 	
 	public static WebDriver getDriver()
@@ -16,7 +15,7 @@ public class DriverManager  {
 		return driver.get();
 	}
 	
-	public static void setDriver(WebDriver instance) throws IllegalAccessException
+	public static void setDriver(WebDriver instance) 
 	{
 		
 		try {

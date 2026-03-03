@@ -44,17 +44,17 @@ public class LoginPage extends BasePage{
 */
 	public void loginCredentials(String UserName, String Password) {
 
-		log.info(ActionsDriver.getElementsDetails(uname));
+		log.debug(ActionsDriver.getElementsDetails(uname));
 		ActionsDriver.sendKeys(uname, UserName);
-		log.info("UserName  is entered ");
+		log.debug("UserName  is entered ");
 
-		log.info(ActionsDriver.getElementsDetails(pass));
+		log.debug(ActionsDriver.getElementsDetails(pass));
 		ActionsDriver.sendKeys(pass, Password);
-		log.info("Password is entered");
+		log.debug("Password is entered");
 
-		log.info(ActionsDriver.getElementsDetails(loginButton));
+		log.debug(ActionsDriver.getElementsDetails(loginButton));
 		ActionsDriver.click(loginButton);
-		log.info("Loginbutton is clicked and  login successful ");
+		log.debug("Loginbutton is clicked and  login successful ");
 
 		log.info("TestCase is completed for :" + getClass().getSimpleName());
 
