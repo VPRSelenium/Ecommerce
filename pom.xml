@@ -33,14 +33,6 @@
     <scope>test</scope>
 </dependency>
 
- 
-
-	<dependency>
-		<groupId>AutomationPlayground</groupId>
-		<artifactId>AutomationPlaygroundProject</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
-	</dependency>
-	
 	
 
   <dependency>
